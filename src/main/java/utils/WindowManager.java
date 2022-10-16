@@ -1,4 +1,4 @@
-package dropdown.utils;
+package utils;
 
 import org.openqa.selenium.WebDriver;
 
